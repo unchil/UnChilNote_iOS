@@ -20,7 +20,7 @@ struct ConstVar {
 	static let IMAGEFILEEXE:String = "jpg"
 	static let CURRENTLOCALE =  Locale(identifier: "ko-KR")
 	static let RECORDINGFILEEXE:String = "wav"
-	static let ITEMDELETEMESSAGE: String = "Are you sure you want to clear the Memo?"
+	static let ITEMDELETEMESSAGE: String = "Are you sure you want to clear the Memo ?"
 }
 
 
